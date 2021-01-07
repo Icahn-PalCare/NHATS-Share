@@ -6,7 +6,6 @@
 
 ```
 /* 
-********************HEADING******************** 
 
 Project Name: NHATS Setup
 
@@ -53,7 +52,7 @@ cd "${work}"
 
 ## NHATS Data Cleaning Part 1 (1_combine_waves)
 ```
-H="NHATS Data Cleaning Part 1 (1_combine_waves)"
+
 /*
 
 Created by: --
@@ -329,7 +328,6 @@ exit
 ## NHATS Data Cleaning Part 2 (1a_help_hours_imputation)
 
 ```
-H="NHATS Data Cleaning Part 2 (1a_help_hours_imputation)"
 /*
 
 Created by: --
@@ -769,7 +767,6 @@ exit
 ## NHATS Data Cleaning Part 3 (2_r12_cleaning_1_1)
 ```
 
-H="NHATS Data Cleaning Part 3 (2_r12_cleaning_1_1)"
 /*
 
 Created by: --
@@ -1354,7 +1351,6 @@ exit
 ## NHATS Data Cleaning Part 4 (3_r12_cleaning_2_1)
 
 ```
-H="NHATS Data Cleaning Part 4 (3_r12_cleaning_2_1)"
 /*
 
 Created by: --
