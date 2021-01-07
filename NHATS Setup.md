@@ -1,6 +1,6 @@
 # NHATS Setup - 01/07/2021
 
-## Stata code to clean and create variables fro Rounds 1-9 of NHATS data. 
+## Stata code to clean and create variables from Rounds 1-9 of NHATS data. 
 
 ## Heading
 
